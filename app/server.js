@@ -15,7 +15,7 @@ logger.info('another line');
 logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('Something');
-logger.info('New line in remote');
+logger.info('New line in remote and local');
 
 
 app.listen(3000, function () {
