@@ -15,6 +15,8 @@ logger.info('another line');
 logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('Something');
+logger.info('New line in remote');
+
 
 app.listen(3000, function () {
     logger.info("app listening on port 3000!");
