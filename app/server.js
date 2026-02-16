@@ -16,6 +16,7 @@ logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('Something');
 logger.info('New line in remote and local');
+logger.info('New feature from devops');
 
 
 
