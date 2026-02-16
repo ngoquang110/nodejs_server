@@ -21,6 +21,8 @@ logger.info('Test in remote');
 logger.info('Test in remote 2');
 
 
+logger.info('Test in local 2');
+
 
 
 app.listen(3000, function () {
