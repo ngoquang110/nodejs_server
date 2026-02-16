@@ -16,12 +16,7 @@ logger.info('This never stops');
 logger.info('Logging logging all the way');
 logger.info('Something');
 logger.info('New line in remote and local');
-logger.info('Test in local');
-logger.info('Test in remote');
-logger.info('Test in remote 2');
 
-
-logger.info('Test in local 2');
 
 
 
